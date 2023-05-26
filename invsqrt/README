@@ -1,0 +1,9 @@
+TODO:
+- Create a write-up on how the method works ("evil" C trick, "wtf" constant, Newton's method).
+
+
+Inspiration:
+- https://www.youtube.com/watch?v=p8u_k2LIZyo
+- https://web.archive.org/web/20120920120948/http://blog.quenta.org/2012/09/0x5f3759df.html
+- https://en.wikipedia.org/wiki/Fast_inverse_square_root
+- https://betterexplained.com/articles/understanding-quakes-fast-inverse-square-root/
